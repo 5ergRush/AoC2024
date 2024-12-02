@@ -14,6 +14,3 @@ out/
 
 # Environment files
 .env
-
-# Config files
-tsconfig.json
