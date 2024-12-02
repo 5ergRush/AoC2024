@@ -1,0 +1,23 @@
+{
+  "name": "aoc2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "day1": "npx ts-node src/day1.ts",
+    "day1_2": "npx ts-node src/day1_2.ts",
+    "day2": "npx ts-node src/day2.ts",
+    "day2_2": "npx ts-node src/day2_2.ts",
+    "day3": "npx ts-node src/day3.ts",  
+    "day3_2": "npx ts-node src/day3_2.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
